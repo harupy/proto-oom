@@ -1,6 +1,8 @@
 ## Command to reproduce the error
 
 ```
+git clone https://github.com/harupy/proto-oom
+cd proto-oom
 docker build .
 ```
 
