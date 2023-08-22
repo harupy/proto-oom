@@ -1,6 +1,6 @@
 ## TL;DR
 
-This repo is a minimum replication of an issue where we encountered in https://github.com/mlflow/mlflow. Related to https://github.com/mlflow/mlflow/issues/9360.
+This repo is a minimum replication of an issue we encountered in https://github.com/mlflow/mlflow. Related to https://github.com/mlflow/mlflow/issues/9360.
 
 ## Command to reproduce the error
 
