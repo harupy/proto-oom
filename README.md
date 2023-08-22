@@ -1,6 +1,6 @@
 ### TL;DR
 
-This repo is a minimum replication of an issue we encountered in https://github.com/mlflow/mlflow. Related to https://github.com/mlflow/mlflow/issues/9360. We adjusted the package name and folder structure to fix #9360. The error reported in #9360 seems to have been resolved, but we encountered a new error.
+This repo is a minimum replication of an issue we encountered in https://github.com/mlflow/mlflow. Related to https://github.com/mlflow/mlflow/issues/9360. We thought separating package and folder would fix the issue, but it didn't. Well, it did solve the error reported in #9360, but a new error showed up.
 
 ### Command to reproduce the error
 
