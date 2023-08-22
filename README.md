@@ -1,8 +1,8 @@
-## TL;DR
+### TL;DR
 
 This repo is a minimum replication of an issue we encountered in https://github.com/mlflow/mlflow. Related to https://github.com/mlflow/mlflow/issues/9360. We adjusted the package name and folder structure to fix #9360. The error reported in #9360 seems to have been resolved, but we encountered a new error.
 
-## Command to reproduce the error
+### Command to reproduce the error
 
 ```
 git clone https://github.com/harupy/proto-oom
@@ -10,7 +10,7 @@ cd proto-oom
 docker build .
 ```
 
-The output should look like:
+### Error
 
 ```
 Traceback (most recent call last):
